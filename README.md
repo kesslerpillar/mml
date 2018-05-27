@@ -8,7 +8,7 @@ Technology is accelerating at a dizzying pace and we are failing to keep up. Thi
 
 As I write the first draft of this learning guide on my iPad Pro(r) I easily take for granted the ease of jotting down my thoughts with my Apple Pencil(r). This elegant interaction with technology sets the stage for teaching technology to the next generation. Gone are the years when students were impressed when they printed the text "Hello World" for the first time. Technology is an accepted and expected part of everyday life. 
 
-This point was recently driven home to me when my 10-year-old daughter was shocked that the internet was not free. She views the World Wide Web as a basic human need.  In fact, you'd think our house was on fire when our internet goes down or it becomes our connection speed is spotty. We've come to expect instant results. Expectantly impatient we Google it or just ask Alexa. Instant feedback is expected. 
+This point was recently driven home to me when my 10-year-old daughter was shocked that the internet was not free. She views the World Wide Web as a basic human need.  In fact, you'd think our house was on fire when our internet goes down or our connection speed becomes spotty. We've come to expect instant results. Expectantly impatient we Google it or just ask Alexa. Instant feedback is expected. 
 
 The profound paradox is that building these technological extensions of humanity is much slower and incremental in nature than the resulting user experiences we create. Even the simplest app that accepts and stores a person's name on the web requires a staggering amount of knowhow. The slow rate at which we can acquire this type of basic knowledge is a boulder sized impediment for our industry.
 
