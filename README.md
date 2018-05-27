@@ -49,7 +49,7 @@ In Agile software development, we avoid this big all or nothing investment by sl
 
 To make this pivot we must realize that this is a 3-part problem. First, technology is a moving target that is outpacing our ability to learn and adapt. Thomas Friedman illustrates this rate of change acceleration. (insert graph). LinkedIn 2017 Workplace Learning Report echoes this gap stating that tech skills have a limited shelf-life. In less than 5 short years your skill relevance is out-of-date. Consequently, as software professionals we have come to expect that we must be continuous learners to remain relevant. This rapid learning is reflected in popular books like "Seven Languages in Seven Weeks". 
 
-![alt text](https://github.com/pairing4good/mml/raw/master/img/FriedmanTellerCurve.png "The Learning Gap")
+![The Learning Gap](https://github.com/pairing4good/mml/raw/master/img/FriedmanTellerCurve.png "The Learning Gap")
 
 The tragic paradox is that the skills learned in a four-year degree are out-of-date by the time graduates land their first job. That's if their applied skills were even aligned with the rapidly changing languages, tools, frameworks and techniques within our industry. Tragically curriculum boards, department heads and professors are ill equipped to remain relevant beyond fundamental concepts. Curriculum changes take years to manifest in the classrooms. This mismatch partially accounts for the dismal 20% industry readiness of new graduates.
 
