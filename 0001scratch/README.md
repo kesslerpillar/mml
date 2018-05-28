@@ -14,7 +14,7 @@ What is version control and why should I care?
 2. History: It keeps a history of the changes that you make to your work.
 3. Teamwork: It allows multiple people on a team to work on the same thing without destroying each other's work.
 
-Git is a popular version control system.  GitHub is a free online service that allows anyone to version thier work remotely and share it with team members.
+Git is a popular version control system.  GitHub is a free online service that allows anyone to version thier work remotely and share it with team members.  For now we will just use GitHub directly but in later sections we will use Git directly.
 
 ## Assignments
 All assignments will be distributed and turned in through GitHub.
@@ -34,4 +34,15 @@ A fork is a personal copy of someone else's GitHub repository.  You can freely c
 1. Select your GitHub account
 1. Done! 
 
+### Turn In Your First Program
+_Prerequisite: Completed the `Getting Started with Scratch` tutorial._
+1. In your scratch editor select the `File > Download to your computer` menu.
+1. Save your first program with the name `0001Scratch`.
+1. Navigate to the computer folder where you saved this sb2 file.
+1. Go to your GitHub fork location.
+1. Navigate to the `/0001scratch/assignment` folder
+1. Click the `Upload files` button.
+1. Drag your `0001Scratch.sb2` file and drop it in the gray box.
+1. Add a commit message (example: Built my first Scratch program)
+1. Click the `Commit Changes` button
 
